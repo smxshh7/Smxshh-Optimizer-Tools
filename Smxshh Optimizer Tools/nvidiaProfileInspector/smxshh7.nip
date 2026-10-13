@@ -208,6 +208,18 @@
         <SettingValue>0</SettingValue>
         <ValueType>Dword</ValueType>
       </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Enable application for Optimus</SettingNameInfo>
+        <SettingID>284810368</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Shim Rendering Mode</SettingNameInfo>
+        <SettingID>284810369</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
     </Settings>
   </Profile>
 </ArrayOfProfile>
